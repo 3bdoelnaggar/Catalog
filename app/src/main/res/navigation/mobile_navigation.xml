@@ -8,18 +8,18 @@
     <fragment
         android:id="@+id/navigation_home"
         android:name="com.elnaggar.catalog.ui.home.ImageViewFragment"
-        android:label="@string/title_home"
+        android:label="@string/title_imageview"
         tools:layout="@layout/imageview_fragment" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
         android:name="com.elnaggar.catalog.ui.dashboard.CheckboxFragment"
-        android:label="@string/title_dashboard"
+        android:label="@string/title_checkbox"
         tools:layout="@layout/checkbox_fragment" />
 
     <fragment
         android:id="@+id/navigation_notifications"
         android:name="com.elnaggar.catalog.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:label="@string/title_constraint_layout"
+        tools:layout="@layout/constraint_layout_fragment" />
 </navigation>

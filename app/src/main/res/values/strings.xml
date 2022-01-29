@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Catalog</string>
-    <string name="title_home">ImageView</string>
-    <string name="title_dashboard">Checkbox</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_imageview">ImageView</string>
+    <string name="title_checkbox">Checkbox</string>
+    <string name="title_constraint_layout">ConstraintLayout</string>
 </resources>
